@@ -250,5 +250,3 @@ Vite is a fast development build tool that significantly improves the frontend d
 - [CSS-Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 ```
-
-Feel free to add any additional links or sections as needed!
