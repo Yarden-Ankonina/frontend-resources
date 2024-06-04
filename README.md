@@ -1,6 +1,3 @@
-Sure! Here's an enhanced version of the README with updated links, categories, more examples, and a visually appealing layout.
-
-```markdown
 # 🎨 Frontend Resource Hub
 
 Welcome to the **Frontend Resource Hub**! This repository is a curated collection of resources for various frontend technologies. Each section contains links to documentation, tutorials, and other helpful materials to get you started and help you master each tool.
