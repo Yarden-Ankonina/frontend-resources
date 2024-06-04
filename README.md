@@ -1,1 +1,241 @@
-# frontend-resources
+# Frontend Resource Hub
+
+Welcome to the Frontend Resource Hub! This repository is a curated collection of resources for various frontend technologies. Each section contains links to documentation, tutorials, and other helpful materials to get you started and help you master each tool.
+
+## Table of Contents
+
+- [Frameworks](#frameworks)
+  - [React](#react)
+  - [Next.js](#nextjs)
+  - [Vue.js](#vuejs)
+  - [Angular](#angular)
+- [Libraries](#libraries)
+  - [React Query](#react-query)
+  - [Ky](#ky)
+  - [React Router](#react-router)
+  - [Axios](#axios)
+  - [Lodash](#lodash)
+  - [Moment.js](#momentjs)
+- [Styling](#styling)
+  - [Styled Components](#styled-components)
+  - [Tailwind CSS](#tailwind-css)
+  - [CSS Modules](#css-modules)
+  - [CSS Animation](#css-animation)
+  - [CSS Theming](#css-theming)
+  - [Sass](#sass)
+  - [Less](#less)
+- [State Management](#state-management)
+  - [Redux](#redux)
+  - [MobX](#mobx)
+  - [Zustand](#zustand)
+- [Testing](#testing)
+  - [Jest](#jest)
+  - [Cypress](#cypress)
+  - [React Testing Library](#react-testing-library)
+- [Tools](#tools)
+  - [Storybook](#storybook)
+  - [Radix UI](#radix-ui)
+  - [Webpack](#webpack)
+  - [Babel](#babel)
+- [Additional Resources](#additional-resources)
+
+## Frameworks
+
+### React
+
+React is a JavaScript library for building user interfaces.
+
+- [Official Documentation](https://reactjs.org/docs/getting-started.html)
+- [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [React GitHub Repository](https://github.com/facebook/react)
+- [Awesome React (GitHub)](https://github.com/enaqx/awesome-react)
+
+### Next.js
+
+Next.js is a React framework for production.
+
+- [Official Documentation](https://nextjs.org/docs)
+- [Learn Next.js](https://nextjs.org/learn)
+- [Next.js GitHub Repository](https://github.com/vercel/next.js)
+
+### Vue.js
+
+Vue.js is a progressive JavaScript framework for building user interfaces.
+
+- [Official Documentation](https://vuejs.org/v2/guide/)
+- [Vue.js GitHub Repository](https://github.com/vuejs/vue)
+- [Vue Mastery](https://www.vuemastery.com/)
+
+### Angular
+
+Angular is a platform for building mobile and desktop web applications.
+
+- [Official Documentation](https://angular.io/docs)
+- [Angular GitHub Repository](https://github.com/angular/angular)
+- [Angular - Tour of Heroes Tutorial](https://angular.io/tutorial)
+
+## Libraries
+
+### React Query
+
+React Query is a data-fetching library for React.
+
+- [Official Documentation](https://react-query.tanstack.com/overview)
+- [React Query GitHub Repository](https://github.com/TanStack/react-query)
+- [React Query Tutorial](https://react-query.tanstack.com/overview)
+
+### Ky
+
+Ky is a tiny and elegant HTTP client based on Fetch API.
+
+- [Official Documentation](https://github.com/sindresorhus/ky)
+- [Ky on npm](https://www.npmjs.com/package/ky)
+- [Getting Started with Ky](https://sindresorhus.com/ky/)
+
+### React Router
+
+React Router is a routing library for React.
+
+- [Official Documentation](https://reactrouter.com/docs/en/v6)
+- [React Router GitHub Repository](https://github.com/remix-run/react-router)
+- [React Router Tutorial](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
+
+### Axios
+
+Axios is a promise-based HTTP client for the browser and Node.js.
+
+- [Official Documentation](https://axios-http.com/docs/intro)
+- [Axios GitHub Repository](https://github.com/axios/axios)
+- [Using Axios with React](https://www.pluralsight.com/guides/using-axios-in-react-app)
+
+### Lodash
+
+Lodash is a JavaScript utility library delivering consistency, modularity, and performance.
+
+- [Official Documentation](https://lodash.com/)
+- [Lodash GitHub Repository](https://github.com/lodash/lodash)
+- [Lodash Guide](https://www.digitalocean.com/community/tutorials/understanding-lodash-utility-library-javascript)
+
+### Moment.js
+
+Moment.js is a JavaScript library for parsing, validating, manipulating, and formatting dates.
+
+- [Official Documentation](https://momentjs.com/docs/)
+- [Moment.js GitHub Repository](https://github.com/moment/moment/)
+- [Moment.js Guide](https://flaviocopes.com/momentjs/)
+
+## Styling
+
+### Styled Components
+
+Styled Components is a library for React and React Native to write and manage CSS.
+
+- [Official Documentation](https://styled-components.com/docs)
+- [Styled Components GitHub Repository](https://github.com/styled-components/styled-components)
+- [Introduction to Styled Components](https://styled-components.com/docs/basics#getting-started)
+
+### Tailwind CSS
+
+Tailwind CSS is a utility-first CSS framework.
+
+- [Official Documentation](https://tailwindcss.com/docs)
+- [Tailwind CSS GitHub Repository](https://github.com/tailwindlabs/tailwindcss)
+- [Tailwind CSS Tutorial](https://tailwindcss.com/docs/installation)
+
+### CSS Modules
+
+CSS Modules allow you to write CSS that’s scoped locally to the component.
+
+- [CSS Modules Documentation](https://github.com/css-modules/css-modules)
+- [Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+- [CSS Modules Tutorial](https://medium.com/seek-blog/css-modules-a-css-solution-for-react-18702d79a42)
+
+### CSS Animation
+
+CSS Animation is used to animate the properties of HTML elements.
+
+- [CSS Animation Documentation (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+- [CSS Animations Guide](https://css-tricks.com/almanac/properties/a/animation/)
+- [Animate.css Library](https://animate.style/)
+
+### CSS Theming
+
+CSS Theming involves managing and applying themes to your web application.
+
+- [CSS Variables for Theming (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+- [Theming with CSS Variables](https://css-tricks.com/a-complete-guide-to-custom-properties/)
+- [Styled Components Theming](https://styled-components.com/docs/advanced#theming)
+
+### Sass
+
+Sass is a preprocessor scripting language that is interpreted or compiled into CSS.
+
+- [Official Documentation](https://sass-lang.com/documentation)
+- [Sass GitHub Repository](https://github.com/sass/sass)
+- [Sass Guide](https://sass-lang.com/guide)
+
+### Less
+
+Less is a backward-compatible language extension for CSS.
+
+- [Official Documentation](http://lesscss.org/)
+- [Less GitHub Repository](https://github.com/less/less.js)
+- [Getting Started with Less](http://lesscss.org/usage/)
+
+## State Management
+
+### Redux
+
+Redux is a predictable state container for JavaScript apps.
+
+- [Official Documentation](https://redux.js.org/)
+- [Redux GitHub Repository](https://github.com/reduxjs/redux)
+- [Getting Started with Redux](https://redux.js.org/introduction/getting-started)
+
+### MobX
+
+MobX is a simple, scalable state management solution.
+
+- [Official Documentation](https://mobx.js.org/README.html)
+- [MobX GitHub Repository](https://github.com/mobxjs/mobx)
+- [MobX Getting Started](https://mobx.js.org/getting-started)
+
+### Zustand
+
+Zustand is a small, fast, and scalable bearbones state-management solution.
+
+- [Official Documentation](https://zustand.surge.sh/)
+- [Zustand GitHub Repository](https://github.com/pmndrs/zustand)
+- [Zustand Guide](https://docs.pmnd.rs/zustand/getting-started/introduction)
+
+## Testing
+
+### Jest
+
+Jest is a delightful JavaScript testing framework with a focus on simplicity.
+
+- [Official Documentation](https://jestjs.io/docs/getting-started)
+- [Jest GitHub Repository](https://github.com/facebook/jest)
+- [Jest Tutorial](https://jestjs.io/docs/tutorial-react)
+
+### Cypress
+
+Cypress is a JavaScript end-to-end testing framework.
+
+- [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress)
+- [Cypress GitHub Repository](https://github.com/cypress-io/cypress)
+- [Cypress Tutorial](https://docs.cypress.io/guides/getting-started/writing-your-first-test)
+
+### React Testing Library
+
+React Testing Library is a very light-weight solution for testing React components.
+
+- [Official Documentation](https://testing-library.com/docs/react-testing-library/intro/)
+- [React Testing Library GitHub Repository](https://github.com/testing-library/react-testing-library)
+- [React Testing Library Tutorial](https://testing-library.com/docs/react-testing-library/intro/)
+
+## Tools
+
+### Storybook
+
+Storybook is a tool
